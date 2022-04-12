@@ -1,0 +1,45 @@
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\bin\Debug\TcpSerwerWPF.exe.config
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\bin\Debug\TcpSerwerWPF.exe
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\bin\Debug\TcpSerwerWPF.pdb
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.csprojAssemblyReference.cache
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\App.g.cs
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF_MarkupCompile.cache
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF_MarkupCompile.lref
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\MainWindow.baml
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.g.resources
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.Properties.Resources.resources
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.csproj.GenerateResource.cache
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.csproj.CoreCompileInputs.cache
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.exe
+C:\Users\Lenart Piotr\source\repos\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.pdb
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\bin\Debug\TcpSerwerWPF.exe.config
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\bin\Debug\TcpSerwerWPF.exe
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\bin\Debug\TcpSerwerWPF.pdb
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.csprojAssemblyReference.cache
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\MainWindow.g.cs
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\App.g.cs
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF_MarkupCompile.cache
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF_MarkupCompile.lref
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\MainWindow.baml
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.g.resources
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.Properties.Resources.resources
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.csproj.GenerateResource.cache
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.csproj.CoreCompileInputs.cache
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.exe
+D:\Gry\dokumenty\programowanie\C#\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.pdb
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\bin\Debug\TcpSerwerWPF.exe.config
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\bin\Debug\TcpSerwerWPF.exe
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\bin\Debug\TcpSerwerWPF.pdb
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\App.g.cs
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF_MarkupCompile.lref
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.g.resources
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.exe
+C:\Users\user\Documents\GitHub\tcp-communicator\TcpSerwerWPF\TcpSerwerWPF\obj\Debug\TcpSerwerWPF.pdb
